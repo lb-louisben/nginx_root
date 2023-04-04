@@ -1,0 +1,12 @@
+# idea file
+/.idea
+
+# mac
+.DS_Store
+**/.DS_Store
+
+# logs
+/log
+
+# root nginx
+/nginx.conf
